@@ -1,0 +1,5 @@
+.idea
+.env
+*/**/data/*.mp3
+*/**/data/*.txt
+settings.json
